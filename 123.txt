@@ -1,0 +1,1 @@
+Maven is a build automation tool and a software project management tool, primarily used for Java-based projects. It helps manage project builds, documentation, reporting, dependencies, and more by using a Project Object Model (POM) and standard conventions. Maven also facilitates the distribution and release of software projects. 
